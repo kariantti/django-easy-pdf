@@ -1,4 +1,4 @@
-django>=1.5.1
+django==1.4.11
 xhtml2pdf>=0.0.6
 
 # Dependencies of xhtml2pdf
